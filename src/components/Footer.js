@@ -36,7 +36,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterLinks>
-        <FooterLink href="#home">He</FooterLink>
+        <FooterLink href="#home">HeHe</FooterLink>
         <FooterLink href="#services">Services</FooterLink>
         <FooterLink href="#contact">Contact</FooterLink>
         <FooterLink href="#about">About</FooterLink>
